@@ -1,0 +1,16 @@
+{
+  "name": "node-desde-0",
+  "version": "1.0.0",
+  "description": "curso de node js en undemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harley Santos Garzón",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {}
+}
